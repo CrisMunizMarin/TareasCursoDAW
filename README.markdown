@@ -24,3 +24,4 @@ https://github.com/CrisMunizMarin/TareasCursoDAW.git
 
 ### Captura de pantalla gráfico de Github
 
+![Gráfico Fusiones](./README.assets/imagenFusiones.png)
